@@ -227,8 +227,8 @@ const PriceOverviewSection = () => {
               <CardContent>
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
-                    <p className="font-semibold">HILL-Clear Projects GmbH</p>
-                    <p className="text-gray-600">Sparkasse München</p>
+                    <p className="font-semibold">KH Petrol Trading GmbH</p>
+                    <p className="text-gray-600">Sparkasse Augsburg</p>
                     <p className="text-gray-600">IBAN: DE89 7015 0000 1234 5678 90</p>
                     <p className="text-gray-600">BIC: SSKMDEMMXXX</p>
                   </div>

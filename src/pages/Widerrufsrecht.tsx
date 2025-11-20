@@ -43,15 +43,14 @@ const Widerrufsrecht = () => {
             </CardHeader>
             <CardContent className="space-y-4">
               <p className="text-gray-700 text-sm leading-relaxed">
-                Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (HILL-Clear Projects GmbH, Rottmannstr. 22a, 80333 München, E-Mail: info@hill-heizoel.de, Tel.: 089 416 133 45) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.
+                Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (KH Petrol Trading GmbH, Lueginslandgäßchen 2, 86152 Augsburg, E-Mail: info@kh-heizoel.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.
               </p>
               
               <div className="bg-primary-50 p-4 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">Kontakt für Widerruf:</h3>
                 <div className="space-y-1 text-gray-700 text-sm">
-                  <p><span className="font-semibold">Adresse:</span> HILL-Clear Projects GmbH, Rottmannstr. 22a, 80333 München</p>
-                  <p><span className="font-semibold">E-Mail:</span> info@hill-heizoel.de</p>
-                  <p><span className="font-semibold">Telefon:</span> 089 416 133 45</p>
+                  <p><span className="font-semibold">Adresse:</span> KH Petrol Trading GmbH, Lueginslandgäßchen 2, 86152 Augsburg</p>
+                  <p><span className="font-semibold">E-Mail:</span> info@kh-heizoel.de</p>
                 </div>
               </div>
 
@@ -126,7 +125,7 @@ const Widerrufsrecht = () => {
                 </p>
                 
                 <div className="space-y-4 text-gray-700 text-sm">
-                  <p>An: HILL-Clear Projects GmbH, Rottmannstr. 22a, 80333 München, E-Mail: info@hill-heizoel.de</p>
+                  <p>An: KH Petrol Trading GmbH, Lueginslandgäßchen 2, 86152 Augsburg, E-Mail: info@kh-heizoel.de</p>
                   
                   <p>Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*):</p>
                   

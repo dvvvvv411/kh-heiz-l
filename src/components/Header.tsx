@@ -30,7 +30,7 @@ const Header = () => {
             <div className="flex items-center space-x-6">
                 <div className="flex items-center space-x-2">
                   <Bell size={14} className="text-accent-orange-500" />
-                  <span>info@hill-heizoel.de</span>
+                  <span>info@kh-heizoel.de</span>
                 </div>
               </div>
               <div className="text-accent-orange-500 font-medium">
@@ -44,7 +44,7 @@ const Header = () => {
             <Link to="/" className="flex items-center">
               <img 
                 src="/lovable-uploads/a242d3e4-8d70-4fc0-8cab-947043c42574.png" 
-                alt="HILL-Heizöl" 
+                alt="KH-Heizöl" 
                 className="h-20"
               />
             </Link>
@@ -82,7 +82,7 @@ const Header = () => {
             <Link to="/" className="flex items-center">
               <img 
                 src="/lovable-uploads/a242d3e4-8d70-4fc0-8cab-947043c42574.png" 
-                alt="HILL-Heizöl" 
+                alt="KH-Heizöl" 
                 className="h-18"
               />
             </Link>
