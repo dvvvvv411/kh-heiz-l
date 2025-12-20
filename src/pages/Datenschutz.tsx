@@ -31,7 +31,7 @@ const Datenschutz = () => {
                 <p>86152 Augsburg</p>
                 <p>Deutschland</p>
                 <p className="mt-4">
-                  <span className="font-semibold">E-Mail:</span> info@kh-heizoel.de<br />
+                  <span className="font-semibold">E-Mail:</span> info@kh-heizol.de<br />
                   <span className="font-semibold">Telefon:</span> -
                 </p>
               </div>
@@ -146,7 +146,7 @@ const Datenschutz = () => {
                 Bei Fragen zum Datenschutz oder zur Ausübung Ihrer Rechte kontaktieren Sie uns unter:
               </p>
               <div className="mt-3 space-y-1 text-gray-700 text-sm">
-                <p><span className="font-semibold">E-Mail:</span> info@kh-heizoel.de</p>
+                <p><span className="font-semibold">E-Mail:</span> info@kh-heizol.de</p>
               </div>
             </CardContent>
           </Card>

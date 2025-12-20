@@ -89,7 +89,7 @@ const AboutUs = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="outline" className="border-primary-600 text-primary-600 hover:bg-primary-50">
               <Mail className="mr-2" size={20} />
-              info@kh-heizoel.de
+              info@kh-heizol.de
             </Button>
           </div>
         </div>
