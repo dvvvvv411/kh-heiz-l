@@ -74,7 +74,7 @@ const PriceCalculator = () => {
         
         if (data.token) {
           // Redirect to checkout with token
-          const checkoutUrl = `https://checkout.kh-heizoel.de/checkout?token=${data.token}`;
+          const checkoutUrl = `https://checkout.kh-heizol.de/checkout?token=${data.token}`;
           console.log('Redirecting to:', checkoutUrl);
           window.location.assign(checkoutUrl);
           
