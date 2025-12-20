@@ -341,7 +341,7 @@ const AboutUs = () => {
                     <div className="space-y-3">
                       <div className="flex items-center">
                         <Mail className="text-primary-600 mr-3" size={20} />
-                        <span className="text-gray-700">info@kh-heizoel.de</span>
+                        <span className="text-gray-700">info@kh-heizol.de</span>
                       </div>
                     </div>
                   </div>

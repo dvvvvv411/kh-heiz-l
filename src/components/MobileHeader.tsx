@@ -71,11 +71,11 @@ const MobileHeader = () => {
             {/* Contact Actions */}
             <div className="pt-4 border-t border-gray-200 space-y-2">
               <a
-                href="mailto:info@kh-heizoel.de"
+                href="mailto:info@kh-heizol.de"
                 className="flex items-center py-3 px-4 border border-primary-600 text-primary-600 rounded-lg hover:bg-primary-50 transition-colors min-h-[48px]"
               >
                 <Mail size={20} className="mr-3" />
-                <span className="font-medium">info@kh-heizoel.de</span>
+                <span className="font-medium">info@kh-heizol.de</span>
               </a>
             </div>
           </nav>
