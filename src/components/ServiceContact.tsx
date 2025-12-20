@@ -9,7 +9,7 @@ const ServiceContact = () => {
     {
       icon: Bell,
       title: 'Online-Service',
-      info: 'info@kh-heizoel.de',
+      info: 'info@kh-heizol.de',
       description: 'E-Mail-Anfragen und Online-Bestellung',
       availability: 'Antwort innerhalb 2 Stunden'
     },
